@@ -250,6 +250,10 @@ CLASRC = \
    ctpqrt.o ctpqrt2.o ctpmqrt.o ctprfb.o \
    cgetsls.o cgeqr.o clatsqr.o clamtsqr.o cgemqr.o \
    cgelq.o claswlq.o clamswlq.o cgemlq.o \
+   ctplqt.o ctplqt2.o ctpmlqt.o \
+   cgelqt.o cgelqt3.o cgemlqt.o \
+   cgetsls.o cgeqr.o clatsqr.o clamtsqr.o cgemqr.o \
+   cgelq.o claswlq.o clamswlq.o cgemlq.o \
    ctplqt.o ctplqt2.o ctpmlqt.o
 
 ifdef USEXBLAS
